@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GSH2SJCyh0OWWciTGnTUXmyAnhl4QVgqKC/VpUrO7sQ=",
+  "Source": "Cyberbit.TaskManager.Server",
+  "BasePath": "_content/Cyberbit.TaskManager.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

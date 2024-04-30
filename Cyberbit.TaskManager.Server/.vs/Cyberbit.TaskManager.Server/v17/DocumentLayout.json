@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|c:\\users\\avi\\source\\repos\\aviajami\\cyberbit-be\\cyberbit.taskmanager.server\\cyberbit.taskmanager.server\\bl\\tasksbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|solutionrelative:cyberbit.taskmanager.server\\bl\\tasksbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|c:\\users\\avi\\source\\repos\\aviajami\\cyberbit-be\\cyberbit.taskmanager.server\\cyberbit.taskmanager.server\\interfaces\\itasksbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|solutionrelative:cyberbit.taskmanager.server\\interfaces\\itasksbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|c:\\users\\avi\\source\\repos\\aviajami\\cyberbit-be\\cyberbit.taskmanager.server\\cyberbit.taskmanager.server\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|solutionrelative:cyberbit.taskmanager.server\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|c:\\users\\avi\\source\\repos\\aviajami\\cyberbit-be\\cyberbit.taskmanager.server\\cyberbit.taskmanager.server\\models\\enums\\tasksstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|solutionrelative:cyberbit.taskmanager.server\\models\\enums\\tasksstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|c:\\users\\avi\\source\\repos\\aviajami\\cyberbit-be\\cyberbit.taskmanager.server\\cyberbit.taskmanager.server\\models\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|solutionrelative:cyberbit.taskmanager.server\\models\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|c:\\users\\avi\\source\\repos\\aviajami\\cyberbit-be\\cyberbit.taskmanager.server\\cyberbit.taskmanager.server\\models\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|solutionrelative:cyberbit.taskmanager.server\\models\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|c:\\users\\avi\\source\\repos\\aviajami\\cyberbit-be\\cyberbit.taskmanager.server\\cyberbit.taskmanager.server\\dal\\backenddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|solutionrelative:cyberbit.taskmanager.server\\dal\\backenddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|c:\\users\\avi\\source\\repos\\aviajami\\cyberbit-be\\cyberbit.taskmanager.server\\cyberbit.taskmanager.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|solutionrelative:cyberbit.taskmanager.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|c:\\users\\avi\\source\\repos\\aviajami\\cyberbit-be\\cyberbit.taskmanager.server\\cyberbit.taskmanager.server\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|solutionrelative:cyberbit.taskmanager.server\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|c:\\users\\avi\\source\\repos\\aviajami\\cyberbit-be\\cyberbit.taskmanager.server\\cyberbit.taskmanager.server\\dal\\usersdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|solutionrelative:cyberbit.taskmanager.server\\dal\\usersdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|c:\\users\\avi\\source\\repos\\aviajami\\cyberbit-be\\cyberbit.taskmanager.server\\cyberbit.taskmanager.server\\dal\\tasksdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|solutionrelative:cyberbit.taskmanager.server\\dal\\tasksdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|c:\\users\\avi\\source\\repos\\aviajami\\cyberbit-be\\cyberbit.taskmanager.server\\cyberbit.taskmanager.server\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|solutionrelative:cyberbit.taskmanager.server\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|c:\\users\\avi\\source\\repos\\aviajami\\cyberbit-be\\cyberbit.taskmanager.server\\cyberbit.taskmanager.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|solutionrelative:cyberbit.taskmanager.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|c:\\users\\avi\\source\\repos\\aviajami\\cyberbit-be\\cyberbit.taskmanager.server\\cyberbit.taskmanager.server\\interfaces\\itasksdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC05F5F-66D4-4EE2-B64F-8B2FD9DA5844}|Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server.csproj|solutionrelative:cyberbit.taskmanager.server\\interfaces\\itasksdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Models\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "Cyberbit.TaskManager.Server\\Models\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Models\\Enums\\UserRole.cs",
+              "RelativeToolTip": "Cyberbit.TaskManager.Server\\Models\\Enums\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:23:29.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TasksStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Models\\Enums\\TasksStatus.cs",
+              "RelativeDocumentMoniker": "Cyberbit.TaskManager.Server\\Models\\Enums\\TasksStatus.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Models\\Enums\\TasksStatus.cs",
+              "RelativeToolTip": "Cyberbit.TaskManager.Server\\Models\\Enums\\TasksStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:23:28.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Models\\Dto\\TaskDto.cs",
+              "RelativeDocumentMoniker": "Cyberbit.TaskManager.Server\\Models\\Dto\\TaskDto.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Models\\Dto\\TaskDto.cs",
+              "RelativeToolTip": "Cyberbit.TaskManager.Server\\Models\\Dto\\TaskDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:14:47.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Cyberbit.TaskManager.Server\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Models\\Category.cs",
+              "RelativeToolTip": "Cyberbit.TaskManager.Server\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:08:11.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Cyberbit.TaskManager.Server\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Models\\Task.cs*",
+              "RelativeToolTip": "Cyberbit.TaskManager.Server\\Models\\Task.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:05:42.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BackendDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Dal\\BackendDbContext.cs",
+              "RelativeDocumentMoniker": "Cyberbit.TaskManager.Server\\Dal\\BackendDbContext.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Dal\\BackendDbContext.cs*",
+              "RelativeToolTip": "Cyberbit.TaskManager.Server\\Dal\\BackendDbContext.cs*",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwGkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:02:49.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITasksBl.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Interfaces\\ITasksBl.cs",
+              "RelativeDocumentMoniker": "Cyberbit.TaskManager.Server\\Interfaces\\ITasksBl.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Interfaces\\ITasksBl.cs",
+              "RelativeToolTip": "Cyberbit.TaskManager.Server\\Interfaces\\ITasksBl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:43:39.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Cyberbit.TaskManager.Server\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Cyberbit.TaskManager.Server\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAApwEsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:39:29.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksBl.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Bl\\TasksBl.cs",
+              "RelativeDocumentMoniker": "Cyberbit.TaskManager.Server\\Bl\\TasksBl.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Bl\\TasksBl.cs",
+              "RelativeToolTip": "Cyberbit.TaskManager.Server\\Bl\\TasksBl.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:44:53.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TasksDal.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Dal\\TasksDal.cs",
+              "RelativeDocumentMoniker": "Cyberbit.TaskManager.Server\\Dal\\TasksDal.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Dal\\TasksDal.cs",
+              "RelativeToolTip": "Cyberbit.TaskManager.Server\\Dal\\TasksDal.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwFIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:57:05.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITasksDal.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Interfaces\\ITasksDal.cs",
+              "RelativeDocumentMoniker": "Cyberbit.TaskManager.Server\\Interfaces\\ITasksDal.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Interfaces\\ITasksDal.cs",
+              "RelativeToolTip": "Cyberbit.TaskManager.Server\\Interfaces\\ITasksDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:56:26.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Cyberbit.TaskManager.Server\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Cyberbit.TaskManager.Server\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwDQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:48:30.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersDal.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Dal\\UsersDal.cs",
+              "RelativeDocumentMoniker": "Cyberbit.TaskManager.Server\\Dal\\UsersDal.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Dal\\UsersDal.cs",
+              "RelativeToolTip": "Cyberbit.TaskManager.Server\\Dal\\UsersDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:59:41.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Cyberbit.TaskManager.Server\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\repos\\aviajami\\cyberbit-be\\Cyberbit.TaskManager.Server\\Cyberbit.TaskManager.Server\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Cyberbit.TaskManager.Server\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:59:23.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
